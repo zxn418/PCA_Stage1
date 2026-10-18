@@ -1,6 +1,6 @@
 # Accelerating Image Filtering Using Multicore Parallel Processing
 ARTI 503 – Project Stage 1: Proposal and Sequential Benchmarking
-Group 2 (9FA3), Imam Abdulrahman Bin Faisal University
+Group 2 (9FA3)
 
 ## Files
 - `GaussianBlur_sq.ipynb`: sequential Gaussian Blur + benchmark
